@@ -7,7 +7,7 @@ body {
   border-width: 3px;
   border-color: rgb(180, 130, 100);
   color: white;
-  font-family: cursive;
+  font-family: 'Architects Daughter', cursive;
   padding: 10px 30px;
   text-align: center;
   display: inline-block;
@@ -28,17 +28,18 @@ body {
 
 .warning {
   color: #ff0000;
-  font-size: 50px;
+  font-size: 70px;
   text-shadow: 3px 0px #ffffff;
   text-align: center;
-  font-family: cursive;
+  font-family: 'Architects Daughter', cursive;
+  margin-bottom: 5px;
 }
 
 .warning_content {
   color: white;
   font-size: 25px;
   text-align: center;
-  font-family: cursive;
+  font-family: 'Architects Daughter', cursive;
   margin-bottom: 5px;
 }
 
